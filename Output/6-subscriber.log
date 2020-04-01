@@ -1,0 +1,8 @@
+ID: 6
+Topic: countries, animals
+Connection: tcp://10.0.0.1:5556
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals

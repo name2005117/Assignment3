@@ -1,0 +1,38 @@
+ID: 4
+Topic: countries, animals
+Connection: tcp://10.0.0.1:5556
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals
+Receive from broker 
+Topic: countries
+Content:countries
+Topic: animals
+Content:animals

@@ -1,0 +1,115 @@
+Init Broker succeed 
+5555! 
+5556! 
+PUB-Init msg: 9 init with topic countries
+PUB-Init msg: 9 init with topic animals
+PUB-Init msg: 9 init with topic countries
+PUB-Init msg: 9 init with topic animals
+Pub No.9 published Antigua  with topic countries
+PUB-Init msg: 10 init with topic countries
+PUB-Init msg: 10 init with topic animals
+Pub No.9 published Antigua  with topic countries
+PUB-Init msg: 10 init with topic countries
+PUB-Init msg: 10 init with topic animals
+Pub No.10 published Antigua  with topic countries
+Pub No.10 published Antigua  with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Argentina with topic countries
+Pub No.9 published Argentina with topic countries
+Pub No.10 published Argentina with topic countries
+Pub No.10 published Argentina with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Armenia with topic countries
+Pub No.9 published Armenia with topic countries
+Pub No.10 published Armenia with topic countries
+Pub No.10 published Armenia with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Aruba with topic countries
+Pub No.9 published Aruba with topic countries
+Pub No.10 published Aruba with topic countries
+Pub No.10 published Aruba with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Belize with topic countries
+Pub No.9 published Belize with topic countries
+Pub No.10 published Belize with topic countries
+Pub No.10 published Belize with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Benin with topic countries
+Pub No.9 published Benin with topic countries
+Pub No.10 published Benin with topic countries
+Pub No.10 published Benin with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Bhutan with topic countries
+Pub No.9 published Bhutan with topic countries
+Pub No.10 published Bhutan with topic countries
+Pub No.10 published Bhutan with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.10 published Bolivia with topic countries
+Pub No.10 published Bolivia with topic countries
+Pub No.9 published Bolivia with topic countries
+Pub No.9 published Bolivia with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Bosnia with topic countries
+Pub No.9 published Bosnia with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Botswana with topic countries
+Pub No.9 published Botswana with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Chad with topic countries
+Pub No.9 published Chad with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Chile with topic countries
+Pub No.9 published Chile with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published China with topic countries
+Pub No.9 published China with topic countries
+Pub No.9 published Colombia with topic countries
+Pub No.9 published Colombia with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Comoros with topic countries
+Pub No.9 published Comoros with topic countries
+Reply to SUB 6  with topic countries and topic animals 
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Aardvark with topic animals
+Pub No.9 published Aardvark with topic animals
+Reply to SUB 6  with topic countries and topic animals 
+Pub No.9 published Abyssinian with topic animals
+Pub No.9 published Abyssinian with topic animals
+Pub No.9 published Adelie Penguin with topic animals
+Pub No.9 published Adelie Penguin with topic animals
+Pub No.9 published Affenpinscher with topic animals
+Pub No.9 published Affenpinscher with topic animals
+Pub No.9 published Afghan Hound with topic animals
+Pub No.9 published Afghan Hound with topic animals
+Pub No.9 published American Bulldog with topic animals
+Pub No.9 published American Bulldog with topic animals
+Pub No.9 published American Cocker Spaniel with topic animals
+Pub No.9 published American Cocker Spaniel with topic animals
+Pub No.9 published American Coonhound with topic animals
+Pub No.9 published American Coonhound with topic animals
+Pub No.9 published American Eskimo Dog with topic animals
+Pub No.9 published American Eskimo Dog with topic animals
+Pub No.9 published American Foxhound with topic animals
+Pub No.9 published American Foxhound with topic animals
+Pub No.9 published American Pit Bull Terrier with topic animals
+Pub No.9 published American Pit Bull Terrier with topic animals
+Pub No.9 published American Staffordshire Terrier with topic animals
+Pub No.9 published American Staffordshire Terrier with topic animals
+Pub No.9 published American Water Spaniel with topic animals
+Pub No.9 published American Water Spaniel with topic animals
+Pub No.9 published Anatolian Shepherd Dog with topic animals
+Pub No.9 published Anatolian Shepherd Dog with topic animals
+Pub No.9 published Angelfish with topic animals
+Pub No.9 published Angelfish with topic animals
+Pub No.9 published Ant with topic animals
+Pub No.9 published Ant with topic animals
+Pub No.9 published Anteater with topic animals
+Pub No.9 published Anteater with topic animals
+Pub No.9 published Antelope with topic animals
+Pub No.9 published Antelope with topic animals
+Pub No.9 published Appenzeller Dog with topic animals
+Pub No.9 published Appenzeller Dog with topic animals
+Pub No.9 published Arctic Fox with topic animals
+Pub No.9 published Arctic Fox with topic animals
+Pub No.9 published  with topic animals
+Pub No.9 published  with topic animals
