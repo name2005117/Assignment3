@@ -22,7 +22,8 @@ from mininet.node import Controller, RemoteController
 # This is our topology class created specially for Mininet
 from Stopology import Stopo
 
-zKServer = '/home/szhou/zookeeper-3.5.6/bin/zkServer.sh'
+# zKServer = '/home/szhou/zookeeper-3.5.6/bin/zkServer.sh'
+zKServer = '/home/vagrant/Documents/apache-zookeeper-3.5.7-bin/bin/zkServer.sh'
 
 def parseCmdLineArgs ():
     # parse the command line
